@@ -1,0 +1,1 @@
+# translate_multi_strings_xml
