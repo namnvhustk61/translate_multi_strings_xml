@@ -1,0 +1,15 @@
+Trên window:
+	click vào file run_translate.bat
+
+
+
+
+Trên MacOS:
+
+
+
+
+
+
+
+
